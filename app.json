@@ -4,6 +4,7 @@
     "repository": "https://gitlab.com/ravenfeld/server-podcastsyncgarmin",
     "logo": "https://www8.garmin.com/HiRes/logos/GarminLogo.jpg",
     "keywords": ["garmin", "podcast", "connectiq"],
+    "stack": "set heroku-22",
     "addons": [
         {
           "plan": "heroku-postgresql"
